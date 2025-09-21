@@ -135,5 +135,3 @@ Feel free to submit issues or pull requests for improvements or bug fixes.
 This project is licensed under the MIT License.
 
 ---
-
-This README provides a comprehensive overview of the project, its features, setup instructions, and configuration details. Adjust the content as needed to better fit your project's specifics or any additional features you might have.
