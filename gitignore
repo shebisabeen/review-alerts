@@ -1,0 +1,7 @@
+.env
+venv/
+reddit_alerts.db
+trustpilot_reviews.db
+playstore_reviews.db
+cron_monitor.log
+main_monitor.log
